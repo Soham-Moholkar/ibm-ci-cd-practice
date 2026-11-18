@@ -1,0 +1,8 @@
+.git
+.github
+.tekton
+__pycache__
+*.pyc
+.coverage
+venv
+.venv
